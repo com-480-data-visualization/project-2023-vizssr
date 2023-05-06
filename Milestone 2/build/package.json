@@ -1,0 +1,30 @@
+{
+  "name": "src",
+  "productName": "src",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "ROKI",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@nivo/calendar": "0.80.0",
+    "@nivo/core": "0.80.0",
+    "@nivo/stream": "0.80.0",
+    "@testing-library/jest-dom": "5.16.5",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "14.4.3",
+    "react": "0.0.0-experimental-9c54b29b4-20230322",
+    "react-dom": "0.0.0-experimental-9c54b29b4-20230322",
+    "react-router-dom": "6.10.0",
+    "react-scripts": "5.0.1",
+    "tokenize": "^0.0.3",
+    "web-vitals": "3.3.1-soft-navs-7",
+    "@nivo/bump": "0.80.0"
+  },
+  "devDependencies": {
+    "electron": "24.1.3"
+  }
+}

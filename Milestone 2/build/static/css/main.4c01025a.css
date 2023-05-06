@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background:#000;font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;height:100vh;width:100vw}nav{align-items:center;display:flex;justify-content:center;margin:2rem .5rem}a{color:#fff;display:block;margin:0 .5rem;text-decoration:none;transition:all .5s ease}a:hover{opacity:.8;text-decoration:underline}h2{margin:1rem 0}footer,h2{color:#fff;text-align:center}footer{margin:1.5rem 0}svg g text{fill:#fff!important}
+/*# sourceMappingURL=main.4c01025a.css.map*/
