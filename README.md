@@ -5,7 +5,6 @@
 | Rongjun Gao | 366674 |
 | Siyi Liu| 337447 |
 | Samuel Dietz | 260719 |
-| | |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
