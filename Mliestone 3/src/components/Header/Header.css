@@ -1,0 +1,56 @@
+/*.header {*/
+/*  height: 2em;*/
+/*  max-width: 1100px;*/
+/*  width: 95%;*/
+/*  margin: 0 auto;*/
+/*  justify-content: space-between;*/
+/*}*/
+
+
+
+
+/*@media (max-width: 600px) {*/
+/*  .header {*/
+/*    height: 6em;*/
+/*  }*/
+/*}*/
+
+.header_teamname{
+  margin-left: 4em;
+  display: flex;
+}
+
+.header {
+  height: 2em;
+  max-width: 100%;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: space-between;
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 30px;
+  position: sticky;
+  top: 0;
+  borderBottom: 1px solid #e7e7e7;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  z-index: 1001;
+  transition: padding 0.3s;
+}
+
+@media (max-width: 600px) {
+  .header {
+    height: 2em;
+    padding: 10px;
+  }
+}
+
+
+
+/*.header {*/
+/*  position: fixed;*/
+/*  top: 0em;*/
+/*  width: 95%;*/
+/*  z-index: 2;*/
+/*  background: inherit;  !* add the color of your header background *!*/
+/*  justify-content: space-between;*/
+/*}*/

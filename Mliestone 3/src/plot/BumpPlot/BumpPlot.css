@@ -1,0 +1,28 @@
+.bumpplot-container{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.bumpplot-title {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.bumpplot-index-select {
+    margin-bottom: 10px;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.bump-p1 {
+    font-size: 1.2rem;
+    max-width: 1000px;
+    margin-bottom: 20px;
+}

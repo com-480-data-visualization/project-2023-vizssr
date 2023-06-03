@@ -51,6 +51,10 @@ Please, fill the following sections about your project.
 
 **80% of the final grade**
 
++ [Website](https://ssui-liu.github.io/VizSSR/)
++ [Process book]
++ [ScreenCase]
+
 
 ## Late policy
 
