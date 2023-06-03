@@ -52,8 +52,8 @@ Please, fill the following sections about your project.
 **80% of the final grade**
 
 + [Website](https://ssui-liu.github.io/VizSSR/)
-+ [Process book]
-+ [ScreenCase]
++ [Process book](https://github.com/com-480-data-visualization/project-2023-vizssr/blob/master/Mliestone%203/Process%20book.pdf)
++ [Screen Case]
 
 
 ## Late policy
