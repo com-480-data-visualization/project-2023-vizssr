@@ -53,7 +53,7 @@ Please, fill the following sections about your project.
 
 + [Website](https://ssui-liu.github.io/VizSSR/)
 + [Process book](https://github.com/com-480-data-visualization/project-2023-vizssr/blob/master/Mliestone%203/Process%20book.pdf)
-+ [Screen Case]
++ [Screen Case](https://drive.google.com/file/d/1Ww1Hlpe4zPXpTRRDuHGJk1q3a-LfGzQ6/view?usp=share_link)
 
 
 ## Late policy
